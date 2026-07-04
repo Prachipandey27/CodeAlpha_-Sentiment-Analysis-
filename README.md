@@ -72,6 +72,18 @@ This project demonstrates how Natural Language Processing can transform customer
 
 ---
 
+
+## Dataset
+
+The dataset used in this project is too large to be included in this repository.
+
+You can download it from Kaggle:
+
+https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
+File used:
+- Reviews.csv
+
 ## Author
 
 Prachi
